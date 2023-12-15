@@ -1,8 +1,8 @@
-### About me
+## About me
 
 Hi, I am a computer science student currently studying at ETH Zürich in Switzerland. I am interested in the fields of ML, AI and particularly mathematical optimization methods. Recently, I have been working on numerous projects surrounding web dev using React and Angular.
 
-## Projects
+### Projects
 
 1. Disk Coverage Optimization on Simple Polygons (not currently maintained)
 1. ICalendar
