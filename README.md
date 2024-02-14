@@ -1,12 +1,17 @@
 ## About me
 
-Hi, I am a computer science student currently studying at ETH Zürich in Switzerland. I am interested in the fields of ML, AI and particularly mathematical optimization methods. Recently, I have been working on numerous projects surrounding web dev using React and Angular.
+Hi, I am a computer science student currently studying at ETH Zürich in Switzerland. I am interested in the fields of ML, AI and particularly mathematical optimization methods. Recently, I have been working on some personal projects that interest me.
 
-### Projects
+## Projects
 
-1. Disk Coverage Optimization on Simple Polygons (not currently maintained)
+1. Disk Coverage Optimization on Simple Polygons
 1. ICalendar
 2. UrbanAura
+
+### Ongoing
+
+1. Connect4
+2. Return To Frogland
 
 <!--
 **RCKola/RCKola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
