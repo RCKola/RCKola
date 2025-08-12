@@ -7,14 +7,16 @@ Hi, I am a computer science student currently studying at ETH Zürich in Switzer
 1. Disk Coverage Optimization on Simple Polygons
 1. ICalendar (WebApp for Productivity Management)
 2. UrbanAura (Website for Weather Data Visualization)
-3. Various machine learning projects (image generation, metric learning, etc.)
-4. ShapeGP: Composing Signed Distance Functions for Shape Optimization
+3. Smaller machine learning projects
+   a. Image Generation using GANs, VAEs
+   b. Contrastive Learning on Food Images
+   c. Comparison of Movie Review Sentiment Analysis with GRU, BERT, GPT2
+5. ShapeGP: Composing Signed Distance Functions for Shape Optimization
+6. Post-hoc Uncertainty Aware Refinement for Monocular Depth Estimation
 
 ### Ongoing
 
 1. Smartphone Assisted River Analysis
-2. Road Segmentation from Satellite Imagery
-3. Gradient based shape optimization using tree composed INRs with connectivity repair operator
 
 <!--
 **RCKola/RCKola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
